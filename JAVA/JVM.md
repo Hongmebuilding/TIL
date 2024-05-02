@@ -28,7 +28,7 @@ JVM이 OS에게 할당받은 메모리 영역
 
 메모리 영역에서 사용하지 않는 데이터를 주기적으로 정리하는 청소기
 
-![[Untitled (1).png]]
+![jvm](https://github.com/Hongmebuilding/TIL/assets/87316411/6376c439-79e3-4452-a630-37ecd4eeab3c)
 
 ## JRE (Java Runtime Environment)
 
