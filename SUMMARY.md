@@ -6,4 +6,4 @@
   * [어떻게 동작할까](JAVA/how.md)
   * [변수](JAVA/Var.md)
 * [TypeScript](TypeScript/README.md)
-  * [JVM](TypeScript/jssbad.md)
+  * [자바스크립트의 약점](TypeScript/jssbad.md)
