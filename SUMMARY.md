@@ -12,3 +12,4 @@
   * [tsconfig.json 해부하기](TypeScript/tsConfig.md)
   * [응용 - 계산기 만들기](TypeScript/calculate.md)
   * [.d.ts](TypeScript/d.md)
+  * [기본타입 외의 것들](TypeScript/notbasictype.md)
