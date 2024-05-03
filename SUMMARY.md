@@ -11,3 +11,4 @@
   * [개발환경 구축](TypeScript/setting.md)
   * [tsconfig.json 해부하기](TypeScript/tsConfig.md)
   * [응용 - 계산기 만들기](TypeScript/calculate.md)
+  * [.d.ts](TypeScript/d.md)
