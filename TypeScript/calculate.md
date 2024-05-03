@@ -25,6 +25,8 @@ code .
 
 ### 코딩
 scr 폴더 안에 index.ts 라는 파일을 만들고 아래와 같은 함수를 만들자
+![image](https://github.com/Hongmebuilding/TIL/assets/87316411/76e84564-7390-4770-b1e7-e57b27fa07d0)
+
 ```javascript
 function assignGrade(average: number): string { ... }
 ```
