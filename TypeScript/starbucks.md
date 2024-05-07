@@ -232,8 +232,8 @@ function completeOrder(user: User, orderId: number): void { ... }
 <details>
   <summary>답안</summary>
 
-    ```tsx
-    interface Beverage {
+```tsx
+ interface Beverage {
       name: string;
       price: number;
     }
@@ -413,6 +413,6 @@ function completeOrder(user: User, orderId: number): void { ... }
       }
     }
     
-    main();
-    ```
+    main();   
+```
 </details> 
