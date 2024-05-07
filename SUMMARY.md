@@ -15,5 +15,6 @@
   * [기본타입 외의 것들](TypeScript/notbasictype.md)
   * [고급타입 활용](TypeScript/hightype.md)
   * [응용 - 별다방 프로그램](TypeScript/starbucks.md)
+  * [객체 지향](TypeScript/solid.md)
 * [Container](Container/README.md)
   * [도커란 무엇일까](Container/docker1.md)
