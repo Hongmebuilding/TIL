@@ -3,38 +3,38 @@
 - 별다방 프로그램 코딩 - 인터페이스 & 데이터 정의하기!
  - **[코드] 유저 인터페이스 정의**
             
-            ```tsx
-            interface User {
+```tsx
+    interface User {
               id: number;
               name: string;
               role: 'admin' | 'customer';
-            }
-            ```
+    }        
+```
 - **[코드] 음료 인터페이스 정의**
             
-            ```tsx
-            interface Beverage {
+```tsx
+    interface Beverage {
               name: string;
               price: number;
-            }
-            ```
+    }        
+```
 - **[코드] 주문 인터페이스 정의**
             
-            ```tsx
-            interface Order {
+```tsx
+    interface Order {
               orderId: number;
               customerId: number;
               customerName: string;
               beverageName: string;
               status: "placed" | "completed" | "picked-up";
-            }
-            ```
+    }        
+```
 - **[코드] 데이터 정의**
             
-            ```tsx
-            let beverages: Beverage[] = [];
-            let orders: Order[] = [];
-            ```
+```tsx
+    let beverages: Beverage[] = [];
+    let orders: Order[] = [];        
+```
 			
 ### > 고객인지 어드민인지 체크하는 함수 만들기   
 <details>
