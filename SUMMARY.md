@@ -16,5 +16,6 @@
   * [고급타입 활용](TypeScript/hightype.md)
   * [응용 - 별다방 프로그램](TypeScript/starbucks.md)
   * [객체 지향](TypeScript/solid.md)
+  * [응용 - 도서관 프로그램](TypeScript/library.md)
 * [Container](Container/README.md)
   * [도커란 무엇일까](Container/docker1.md)
