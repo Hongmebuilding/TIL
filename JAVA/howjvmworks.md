@@ -14,5 +14,5 @@
 			3. 상수 pool 참조 : 상수값들을 저장한다.
 	4) PC Registers : 현재 실행되고 있는 명령어의 주소를 저장하는 것이다. multi thread 환경에서 현재 어떤 명령어를 실행해야 할지 기억해야할 때 사용된다.
 	5) Native Method Statcks : c나 c++로 작성된 메소드를 실행할 때 사용된다.
-	- 3),4),5)의 영역은 thread마다 각각 생긴다.
+	- 3),4),5)의 영역은 thread마다 각각 생긴다. <br>
 ![image](https://github.com/Hongmebuilding/TIL/assets/87316411/df789fa2-6fe1-40c3-8f13-ec2d1e99ba54)
